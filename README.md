@@ -19,15 +19,8 @@ Advanced Retrieval-Augmented Generation system for answering questions about mac
 - Byzantine-Robust Aggregation
 - RAG Systems
 
-## Installation
 
-### Prerequisites
-
-- Python 3.10+
-- 8GB+ RAM
-- MacOS, Linux, or Windows
-
-### Setup
+## Setup
 
 ```bash
 # Clone repository
@@ -36,7 +29,7 @@ cd rag-research-assistant
 
 # Create virtual environment
 python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate  
 
 # Install dependencies
 pip install -r requirements.txt
